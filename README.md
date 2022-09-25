@@ -6,19 +6,30 @@ Contents of the ZIPPED folder:
 - app.js 
 - package and package-lock (json)
 - routes folder
+
 --> site
 - relations folder
+
 --> index
 - models
+
 --> User
--->Product 
+
+-->Product
+
 --> Order
+
 --> Cart 
+
 --> CartItem
+
 --> OrderItem 
+
 -db
+
 --> datbase
 -author
+
 --> sites 
 
 HOW TO USE: 
