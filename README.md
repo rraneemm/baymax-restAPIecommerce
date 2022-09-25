@@ -25,7 +25,7 @@ Contents of the ZIPPED folder:
 
 --> OrderItem 
 
--db
+- db
 
 --> datbase
 -author
